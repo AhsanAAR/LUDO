@@ -7,4 +7,4 @@ OOP structures are used to design and implement the game logic.
 
 # LUDO
 
-![s shot](/screenshot.png)
+![s shot](/screenshot.PNG)
