@@ -5,6 +5,6 @@ This game is developed with winbgim library, Version 6.0.
 
 OOP structures are used to design and implement the game logic.
 
-# LUDO
+# Screenshot
 
 ![s shot](/screenshot.PNG)
